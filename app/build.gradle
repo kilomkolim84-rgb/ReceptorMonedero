@@ -3,7 +3,7 @@ plugins {
     id 'com.google.gms.google-services'
 }
 android {
-    namespace 'com.cesar.receptor'
+    namespace 'com.kilomkolim84rgb.monedero'
     compileSdk 34
     defaultConfig {
         applicationId "com.cesar.receptor"
